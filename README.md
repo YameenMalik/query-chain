@@ -1,6 +1,6 @@
 # query-chain
 
-Sample script for executing FilterQueries against a chain. Just update the rpc end point in `main.go` file to execute queries against and RPC node of choice.
+Sample script for executing FilterQueries against an EVM chain. Just update the rpc end point in `main.go` file to execute queries against and RPC node of choice.
 
 By default the script queries against Rinkeby and Moonbase Alpha for a Rollup creation event.
 Sample output:

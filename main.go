@@ -94,6 +94,9 @@ func main(){
 	QueryChain(ctx, rollup_moonbase, rpc_moonbase,200_000,0)
 
 	log.Println("Moonbase")
+	QueryChain(ctx, rollup_moonbase, rpc_moonbase,250_000,0)
+
+	log.Println("Moonbase")
 	QueryChain(ctx, rollup_moonbase, rpc_moonbase,300_000,0)
 
 	log.Println("Moonbase")
